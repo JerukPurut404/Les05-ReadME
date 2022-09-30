@@ -3,7 +3,7 @@
 ### Ik zit in SD1A
 
 # Nasi Goreng Reciept
-[!Nasi Goreng](https://fodmap-publicsite-us-east-2.s3.amazonaws.com/production/media/images/Nasi_Goreng.original.jpg)
+![Nasi Goreng](https://fodmap-publicsite-us-east-2.s3.amazonaws.com/production/media/images/Nasi_Goreng.original.jpg)
 ## Ingredients
 * 600 gram witte rijst,
 * 125 g kippenvlees, fijngehakt
